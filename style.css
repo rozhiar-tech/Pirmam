@@ -8261,3 +8261,14 @@ footer .footer-bottom p a {
     margin-top: 0;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .logo {
+    width: 50px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .banner-area {
+    background-color: black;
+  }
+}
