@@ -55,7 +55,8 @@
     padding: 50px 30px;
     margin-top: 160px;
     margin-bottom: 90px;
-    background: rgba(255, 255, 255, 0.9);
+    /* background: rgba(255, 255, 255, 0.9); */
+    background-color: transparent;
   }
 
   .banner-area.responsive-top-pad-120 .content {
@@ -617,7 +618,7 @@
     padding: 50px 30px;
     margin-top: 120px;
     margin-bottom: 50px;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.6);
   }
 
   .banner-area.text-large .content h2 {
